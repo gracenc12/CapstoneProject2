@@ -1,5 +1,3 @@
-Exploratory Data Analysis with Python
-
 # Marketing Data Analytics: RFM Segmentation and Marketing Strategy Optimization
 
 ## Background
